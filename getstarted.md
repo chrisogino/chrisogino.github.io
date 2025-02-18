@@ -1,7 +1,3 @@
----
-layout: page
-title: Geting Started
----
 
 # Build your website in 3 steps
 
