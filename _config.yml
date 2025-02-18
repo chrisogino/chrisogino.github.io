@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Christopher Ogino - PAF 514 - Lab 05
 
 # Your name to show in the footer
-author: Some Person
+author: Christopher Ogino
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,8 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Getting Started: "getstarted"
+  Author's home: "chrisogino.github.io"
 
 ################
 # --- Logo --- #
@@ -50,14 +51,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: ""
+  facebook: ""
+  github: ""
+  twitter: ""
+  patreon: ""
+  youtube: """
+  whatsapp: ""
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -135,16 +135,21 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+hover-col: "#3BD85E"
+footer-col: "#F4F4EF"
+navbar-col: "#F4F4EF"
+navbar-text-col: "#00254A"
+navbar-children-col: "#F4F4EF"
+footer-col: "#EFF4F9"
+footer-text-col: "#00254A"
+footer-link-col: "#4F0513"
+footer-hover-col: "#FF5C37"
+
+
+
+
+
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
